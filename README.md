@@ -1,6 +1,4 @@
 # PIXEL PERSONA Final Project 
-## Naina Bhalla
-## 240674
 The model identifies faces in an image use Haar Cascades and then classifies the faces into either male or female.
 (The final model that I have submitted can only be run on a local runtime.)
 
